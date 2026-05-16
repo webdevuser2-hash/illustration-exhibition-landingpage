@@ -1,0 +1,1 @@
+A landing page about exhibition of illustrations in which i have used HTML and CSS . I have applied semantic HTML tag called main and vast range of CSS properties such as flex-box, box-shadows, nth-child, last-child, different position properties and grid layout (this is the first time) so make sure to learn and use it on your own websites
