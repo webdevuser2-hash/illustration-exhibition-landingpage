@@ -60,10 +60,16 @@ main{
     align-items: center;
 }
 .top-img-sidebox-text{
-    background: red;
-    height: 100px;
-    width: 100px;
+    position: absolute;
+    height: 300px;
+    width: 330px;
     border-radius: 50%;
+    left: 1%;
+    top: 3%;
+}
+.top-img-sidebox-text img{
+    height: 100%;
+    width: 100%;
 }
 .top-left-img img{
     height: 100%;
